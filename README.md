@@ -35,22 +35,6 @@
 <br/>
 <br/>
 
-### 📊 Statistics
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img 
-    alt="GitHub Stats" 
-    height="175" 
-    style="flex: 1 1 48%; margin-bottom: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielCorreiaFranca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-  <img 
-    alt="GitHub Stats" 
-    height="90" 
-    style="flex: 1 1 48%; margin-bottom: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCorreiaFranca&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
-  />
-</div>
 
 
